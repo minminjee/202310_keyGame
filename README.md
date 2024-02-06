@@ -8,7 +8,7 @@
 * 단, 중복된 단어는 맞추면 0점 틀리면 -10점
 
 ### 시연 영상
-<img src ="https://github.com/minminjee/2023_java_keyboard/assets/157664207/ff4dea8d-5529-4883-a3f4-05f92cd3843d">  
+![bandicam 2023-10-13 10-08-37-003](https://github.com/minminjee/202310_keyGame/assets/157664207/4eb5801c-ccfe-40a6-85dc-90281a60207f)
 
 ### 기술 스택
 자바의 내장 함수를 사용하여 기본적인 동작을 구현함   
